@@ -1,0 +1,20 @@
+
+Course Code: 101
+Course Name: Computer Fundamentals
+Course Credit Hour: 3
+Course Prerequisite: N/A
+
+Course Code: 102
+Course Name: C
+Course Credit Hour: 3
+Course Prerequisite: 101
+
+Course Code: 105
+Course Name: English
+Course Credit Hour: 3
+Course Prerequisite: N/A
+
+Course Code: 107
+Course Name: Physics
+Course Credit Hour: 3
+Course Prerequisite: N/A
